@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "Ankit Singh",
+      "password": "Ankit@123",
+      "location": "delhi",
+      "interests": [
+        "food",
+        "culture"
+      ],
+      "image": "https://logos.flamingtext.com/Name-Logos/Ankit-design-china-name.png",
+      "subscribed": [],
+      "id": 1
+    },
+    {
+      "name": "Ankit 2",
+      "password": "ankit@2",
+      "location": "delhi",
+      "interests": [
+        "drama",
+        "food",
+        "culture"
+      ],
+      "image": "https://logos.textgiraffe.com/logos/logo-name/Ankit-designstyle-kiddo-m.png",
+      "subscribed": [],
+      "id": 2
+    },
+    {
+      "name": "Ankit3",
+      "password": "ankit@3",
+      "location": "kolkata",
+      "interests": [
+        "technology",
+        "drama",
+        "food",
+        "movies",
+        "art"
+      ],
+      "image": "https://1.bp.blogspot.com/--H9kqDUEYnM/X4J9jA5MIbI/AAAAAAAAAMY/yN9C71351ps_FJ6hv11QzaMaC2ejE8o9QCLcBGAsYHQ/s1280/g.jpg",
+      "subscribed": [],
+      "id": 3
+    },
+    {
+      "name": "errorBhai",
+      "password": "iamerror",
+      "location": "kolkata",
+      "interests": [
+        "drama",
+        "art"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoUYfgEv3zAiYXeqlVFnoStQfmwaDlPl84w&usqp=CAU",
+      "subscribed": [],
+      "id": 4
+    },
+    {
+      "name": "lastCheck",
+      "password": "123",
+      "location": "mumbai",
+      "interests": [
+        "technology",
+        "food",
+        "movies",
+        "culture",
+        "drama"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1j_Xh8agRodhIrIA035Feg0qeeXx93v7GNA&usqp=CAU",
+      "subscribed": [],
+      "id": 5
+    }
+  ],
+  "meetups": [
+    {
+      "title": "Check",
+      "location": "delhi",
+      "date": "2002-07-12",
+      "time": "12:54",
+      "theme": "food",
+      "description": "Hey wanna meet?",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevtdK0kpLiacUCKxjeVouQUirLRSSiX1VEw&usqp=CAU",
+      "id": 1
+    },
+    {
+      "title": "Check 2",
+      "location": "mumbai",
+      "date": "2002-08-11",
+      "time": "13:15",
+      "theme": "art",
+      "description": "Hey wanna meet again?",
+      "image": "https://www.gajablife.com/images/republic-day-wallpaper-ankit-with-name-profile-picture-for-whatsapp-4",
+      "id": 2
+    }
+  ]
+}
